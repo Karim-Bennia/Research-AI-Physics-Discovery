@@ -25,12 +25,6 @@ Developed during the **School of AI Algiers Research Camp 2023**, this collabora
 - How can predictive performance be balanced with a less redundant latent representation?
 - Can learned representations support the search for interpretable mathematical expressions?
 
-## Findings and interpretation
-
-The poster presents qualitative relationships between learned latent neuron outputs and the simulation parameters. These observations suggest that the representation captures information relevant to the modeled physical system.
-
-The project does not establish universal generalization to arbitrary physical experiments. Correlation with simulation parameters alone does not establish a unique or fully disentangled physical interpretation. Mathematical-expression extraction remains an exploratory research direction.
-
 ## Authors and project provenance
 
 **Amine Ziad Ounnoughene, Abdelkrim Bennia, Mounia Kias, Zakarya Rahim, and Hadjer Benmeziane.**
