@@ -29,9 +29,8 @@ Developed during the **School of AI Algiers Research Camp 2023**, this collabora
 
 **Amine Ziad Ounnoughene, Abdelkrim Bennia, Mounia Kias, Zakarya Rahim, and Hadjer Benmeziane.**
 
-This repository presents our collaborative research project and its poster. The original project code is hosted in [Amine Ziad Ounnoughene's physics_discovery repository](https://github.com/amine-ziad-ounnoughene/physics_discovery). This GitHub copy retains the original project attribution and adds presentation materials and documentation.
-
-**Research setting:** School of AI Algiers Research Summer Camp 2023.
+This repository presents our collaborative research project and its poster. 
+**Research setting:** School of AI Algiers Research Camp 2023.
 
 ## References
 
